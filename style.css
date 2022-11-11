@@ -1,0 +1,14 @@
+.off {
+    display: none;
+}
+
+.on {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
